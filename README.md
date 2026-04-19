@@ -1,6 +1,6 @@
 # All Restaurants in Sioux City, Iowa, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `975001` |
 | Location | Sioux City |
 | Category | Restaurants |
-| Full dataset size | 272 records |
-| Free sample size | 27 records (9.93%) |
-| Last export | 2026-04-09T11:29:02.218990+00:00 |
+| Full dataset size | 268 records |
+| Free sample size | 26 records (9.7%) |
+| Last export | 2026-04-16T11:28:08.929668+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sioux-city-iowa-us-sample-975001/releases/download/sample-latest/beamstation_975001_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
