@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e34ec077-4e2f-44fa-9010-ff5bd2f5227e",
+  "export_job_id": "5c1ff082-59fb-43d0-8d27-e4c72a5c304e",
   "id_short": 975001,
-  "published_at": "2026-04-16T07:26:44Z",
+  "published_at": "2026-04-19T19:13:47Z",
   "repo_name": "all-restaurants-in-sioux-city-iowa-us-sample-975001",
   "sample_asset_name": "beamstation_975001_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/975001/beamstation_975001_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "cce30801bc6110f0da4b9d6e3aa25aafab4de53a6896b8ba7a99b654b4b308f4",
-  "sample_size_bytes": 110180,
-  "total_records": 272
+  "sample_records": 26,
+  "sample_sha256": "5a5e1dd315d97e3036875c84a6a74744634284e681d0159e610580e57f8196f2",
+  "sample_size_bytes": 105924,
+  "total_records": 268
 }
